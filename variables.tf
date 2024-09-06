@@ -51,3 +51,15 @@ variable "data_base_subnet_cidr" {
 variable "data_base_subnet_names" {
   
 }
+
+variable "public_route_table_tags" {
+  
+}
+
+variable "private_route_table_tags" {
+  
+}
+
+variable "data_base_route_table_tags" {
+  
+}
